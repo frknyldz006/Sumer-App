@@ -1,7 +1,9 @@
 # **Sumer**
 
 > *Built with Flutter*
+> 
 > **2021 ※ Furkan Yıldız**
+> 
 > *Informations Source - Wikipedia*
 
 *An app that introduce civilization of Sumer*
